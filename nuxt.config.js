@@ -63,10 +63,6 @@ export default {
     }
   },
 
-  loading: {
-    color: '#fff'
-  },
-
   // server: {
   //   host: '127.0.0.1',
   //   port: 3000, // 開發階段時的port號
