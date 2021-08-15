@@ -21,6 +21,9 @@ export default {
     '~/assets/css/main.css' // 自定義css
   ],
 
+  loading: {
+    color: '#fff'
+  },
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
     '@/plugins/element-ui'
