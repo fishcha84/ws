@@ -1,6 +1,6 @@
 <template>
   <h1 class="red-color">
-    測試
+    測試css
   </h1>
 </template>
 
